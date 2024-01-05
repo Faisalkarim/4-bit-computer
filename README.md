@@ -7,3 +7,4 @@ Here were my requirements ==>
 4. RAM size - 8
 5. Word size - 18
 6. CPU Instructions - Register Mode, Immediate Mode, JMP, JE
+![CPU](CPU.png)
